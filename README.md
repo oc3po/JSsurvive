@@ -1,1 +1,4 @@
 # JSsurvive
+
+Survival JS game
+
